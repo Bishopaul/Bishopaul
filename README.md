@@ -1,4 +1,4 @@
-![Web Development]<img src="https://github.com/Bishopaul/Bishopaul/blob/main/alexandru-acea-GhwCef9VRr4-unsplash.jpg" width="100" height="100">
+![Web Development]<img src="https://github.com/Bishopaul/Bishopaul/blob/main/alexandru-acea-GhwCef9VRr4-unsplash.jpg" width="1000" height="1000">
 
 ### Hi there 👋, I'm Paul Oluwaferanmi Monite
 
