@@ -1,4 +1,5 @@
-                                                                "Dev BISHOP Here"
-																																[download](https://github.com/Bishopaul/Bishopaul/assets/125129266/cb6dcbc4-3d90-4ca8-902f-6aa51e37f1c8)
+### Hi there 👋
 
+I'm Paul from Nigeria and I do Web Development. I really enjoy coding with Python and currently a student in ALX doing the course Software Engineering. 
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bishopaul)](https://github.com/anuraghazra/github-readme-stats)
