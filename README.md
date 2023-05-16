@@ -1,8 +1,11 @@
-### Hi there 👋, Paul Oluwaferanmi Monite
-#### Web Development
 ![Web Development](https://github.com/Bishopaul/Bishopaul/blob/main/alexandru-acea-GhwCef9VRr4-unsplash.jpg)
 
+### Hi there 👋, I'm Paul Oluwaferanmi Monite
+
 I'm Paul from Nigeria and I do Web Development. I really enjoy coding with Python and currently learning Currently learning Low-level programming, Algorithms, Higher-level programming, System engineering, DevOps with ALX.
+
+## Skills and Experience 
+* 💻 HTML, CSS, JS
 
 Skills: PYTHON/ C / JS / HTML / CSS / JAVASCRIPT
 - 🔭 I’m currently working on Projects from ALX and my company  
