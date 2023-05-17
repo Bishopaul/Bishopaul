@@ -2,7 +2,7 @@
 
 I'm Paul from Nigeria and I do Web Development. I really enjoy coding with Python and currently learning Currently learning Low-level programming, Algorithms, Higher-level programming, System engineering, DevOps with ALX.
 
-### Skills: PYTHON/ C / JS / HTML / CSS / JAVASCRIPT
+### Skills: PYTHON/ C / HTML / CSS / JAVASCRIPT
 
 - 🔭 I’m currently working on Projects from ALX and my company  
 - 🌱 I’m currently learning Low-level programming, Algorithms, Higher-level programming, System engineering, DevOps with ALX. 
